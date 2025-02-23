@@ -1,0 +1,14 @@
+.lnk{
+    text-decoration: none;
+}
+.btnStyle{
+    background-color: rgb(44, 30, 199);
+    border: 2px solid rgb(44, 30, 199);
+}
+.btnStyle:hover{
+    background-color: rgb(24, 16, 120);
+}
+.toggle-btn {
+    transition: background-color 0.2s ease-in-out; /* Smooth transition */
+  }
+  
